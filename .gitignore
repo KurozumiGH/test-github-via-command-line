@@ -431,7 +431,5 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-\ 
 # Custom setup command 
 .setup-solution.cmd 
-\ 
